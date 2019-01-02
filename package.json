@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "lodash": "^4.17.5",
+    "react-scripts": "^1.1.4"
+  },
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  }
+}
