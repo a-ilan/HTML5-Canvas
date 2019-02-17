@@ -1,3 +1,5 @@
+// Prim algorithm - minimum spanning tree 
+
 const VOID = 0;
 const FLOOR = 1;
 const WALL = 2;
