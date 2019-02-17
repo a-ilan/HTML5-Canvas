@@ -1,3 +1,5 @@
+// cellular automata
+
 const DEAD = 0;
 const ALIVE = 1;
 

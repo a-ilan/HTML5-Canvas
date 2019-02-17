@@ -6,6 +6,7 @@ import Maze from './maze';
 import Cave from './cave';
 import Dungeon from './dungeon';
 import Noise from './noise';
+import Galaxy from './galaxy';
 
 class MyApp extends React.Component{
 
@@ -17,6 +18,7 @@ class MyApp extends React.Component{
 				<CanvasView renderer={Cave}/>
 				<CanvasView renderer={Dungeon}/>
 				<CanvasView renderer={Noise}/>
+				<CanvasView renderer={Galaxy}/>
 			</div>
 		);
 	}

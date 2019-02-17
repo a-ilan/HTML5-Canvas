@@ -1,3 +1,5 @@
+// Depth First Search
+
 class Maze {
     constructor(name){
         this.name = name;
@@ -48,7 +50,8 @@ class Maze {
         }
         return rand;
       }
-      
+    
+    // Depth First Search
     setPaths(){
         //stating point
         var dirs = this.randomDirections();
